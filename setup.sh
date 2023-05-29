@@ -263,7 +263,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ Aixxy7 ]-===================="
+echo "=====================-[ SC SIMPEL VVIP ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -302,7 +302,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Created By KennXV ]-==============="
+echo "===============-[ Script Created By XLORD ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
